@@ -39,11 +39,4 @@ This repository showcases a complete, end-to-end data engineering and business i
 | **Regional Sales Disparity** | Jeddah/Riyadh exceed **0.51bn SAR** while Abha logs **0.22bn SAR**. | Shifted flexible vehicle allocation and introduced localized promotional campaigns. |
 | **High Credit Risk Exposure** | **23.81%** of purchases rely heavily on In-House Financing. | Proposed a predictive Machine Learning Credit Scoring model to pre-screen customer reliability. |
 
----
 
-## 📂 Repository Structure
-```text
-├── data/                    # Cleaned dataset files processed via Excel
-├── sql_queries/             # SQL scripts for transformations, schema creation, and aggregation
-├── powerbi_dashboard/       # Interactive Power BI workbook file (.pbix)
-└── README.md                # Project documentation and executive summar
